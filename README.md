@@ -4,7 +4,7 @@ Show how polling changes when a Republican candidate suspends their campaign for
 This was my final project for a Data Science class.
 
 ## Viewing
-On mobile, GitHub displays the raw json that Python notebooks are written on. Need to view in desktop mode for GitHub to run a .ipynb file.
+On mobile, GitHub displays the raw json that Python notebooks are written on. Need to view in desktop mode for GitHub to run a .ipynb file. For concise display of final results, go to [Display.ipynb](https://github.com/dorfman/gop-dropout-polling/blob/master/Display.ipynb)
 
 ## Running
 Run .ipynb files on [Jupyter](http://jupyter.org/).
